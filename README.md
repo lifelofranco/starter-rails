@@ -32,7 +32,7 @@ Slim is a lightweight templating engine for HTML. With Slim, your html becomes s
 
 ### Which text editor should I use?
 
-I believe you should use whatever text editor you are most comfortable with. Most popular ones are Textmate, Sublime, or Notepad++. But if you're like me, I suggest that you use [Atom]http://atom.io). Great text editor made by the folks at Github.
+I believe you should use whatever text editor you are most comfortable with. Most popular ones are Textmate, Sublime, or Notepad++. But if you're like me, I suggest that you use [Atom](http://atom.io). Great text editor made by the folks at Github.
 
 If you are using Atom, use linters for syntax highlighting! I use ruby, js, and css linters to
 help us write clean code. More on this at: [https://atom.io/packages/linter](https://atom.io/packages/linter)
