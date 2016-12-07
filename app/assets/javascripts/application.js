@@ -15,6 +15,15 @@
 //= require_tree ./angular/controllers
 
 // Imported javascripts
+//= require d3
+//= require nv.d3
+//= require angular-nvd3.min
+//= require ngprogress.min
+//= require lodash
+//= require moment
+
+
+
 //= require ngDialog.min
 //= require ngProgress
 //= require_tree ../templates

@@ -4,5 +4,7 @@ var app = angular.module('app', [
   'ngDialog',
   'templates',
   'app.controllers',
-  'app.services'
+  'app.services',
+  'nvd3',
+  'ngProgress'
 ]);
